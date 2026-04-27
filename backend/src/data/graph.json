@@ -1,0 +1,10 @@
+{
+  "nodes": ["NodeA", "NodeB", "NodeC", "NodeD"],
+  "edges": [
+    { "from": "NodeA", "to": "NodeB", "weight": 4 },
+    { "from": "NodeB", "to": "NodeC", "weight": 2 },
+    { "from": "NodeC", "to": "NodeD", "weight": 3 },
+    { "from": "NodeA", "to": "NodeC", "weight": 6 },
+    { "from": "NodeB", "to": "NodeD", "weight": 5 }
+  ]
+}

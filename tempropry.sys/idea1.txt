@@ -1,0 +1,71 @@
+You are an expert in Computer Networks (CN), Algorithms Design & Analysis (ADA), and simulation-based system design.
+
+I already have a project idea:
+
+"HemoMesh: Decentralized Blood Bank Routing System"
+
+Now your task is to MODIFY and SIMPLIFY this idea into a:
+
+🎯 OBJECTIVE:
+- A **simulation or prototype-based mini-project**
+- Must be **easy to implement by a student**
+- Must clearly demonstrate **CN + ADA concepts**
+- Must solve the **real-world problem of blood wastage and shortage**
+- Must be **unique and not a common project**
+
+⚠️ IMPORTANT CONSTRAINTS:
+- Do NOT convert into full hardware system
+- Do NOT make it too complex
+- Focus on **visualization / simulation / working prototype**
+- Must be demo-able (UI or simulation output)
+
+🧠 WHAT YOU MUST DO:
+
+1. Simplify the decentralized system into a **small network simulation**
+   (e.g., 5–10 hospitals as nodes)
+
+2. Keep CN concepts practical:
+   - Node communication
+   - Data sharing (inventory)
+   - Routing decisions
+
+3. Apply ADA concepts simply:
+   - Shortest path OR
+   - Greedy allocation OR
+   - Priority based routing (expiry + urgency)
+
+4. Focus on:
+   - How blood packets move in the system
+   - How decisions are made
+   - How wastage is reduced
+
+⚙️ OUTPUT FORMAT:
+
+1. 📌 Improved Project Title  
+2. 🌍 Problem Statement (clear and strong)  
+3. 💡 Simplified Prototype Idea  
+4. 🌐 CN Implementation:
+   - How nodes (hospitals) communicate
+   - Type of network (centralized / semi-decentralized / P2P)
+
+5. 🧠 ADA Logic:
+   - Which algorithm is used
+   - Simple explanation of how it works in this system
+
+6. 🖥️ Simulation / Prototype Design:
+   - Web-based / Python simulation / NS2 / NS3
+   - How the system will look (UI or graph)
+
+7. 🏗️ Workflow:
+   - Step-by-step flow of data (request → routing → delivery)
+
+8. 🚀 Unique Feature:
+   - What makes this different from normal systems
+
+9. ⚠️ Feasibility:
+   - How a student can build this in simple steps
+
+🎯 STYLE:
+- Keep it simple, practical, and demo-friendly
+- Focus on visualization and working logic
+- Avoid heavy theory

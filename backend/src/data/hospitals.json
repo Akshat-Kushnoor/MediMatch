@@ -1,0 +1,28 @@
+{
+  "hospitals": [
+    {
+      "id": "H1",
+      "name": "City Hospital",
+      "location": "NodeA",
+      "blood_bank_capacity": 500
+    },
+    {
+      "id": "H2",
+      "name": "General Hospital",
+      "location": "NodeB",
+      "blood_bank_capacity": 300
+    },
+    {
+      "id": "H3",
+      "name": "Community Health Center",
+      "location": "NodeC",
+      "blood_bank_capacity": 200
+    },
+    {
+      "id": "H4",
+      "name": "Regional Medical Center",
+      "location": "NodeD",
+      "blood_bank_capacity": 400
+    }
+  ]
+}
